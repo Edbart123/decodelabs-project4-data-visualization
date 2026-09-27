@@ -49,4 +49,6 @@ Cut order losses before chasing new sales:
 Power BI (Power Query, DAX) · Microsoft Excel
 
 ---
-**Eddy Bartolome** · B.S. Computer Information Systems · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+**Eddy Bartolome** · B.S. Computer Information Systems · www.linkedin.com/in/eddybartolome
+
+
